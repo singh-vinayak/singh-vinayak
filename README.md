@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google Developer Student Club- IIIT Ranchi WebSite 
 - 🌱 I’m currently learning Advanced topics of React , Back End development and Computer Networking
-- 👯 I’m looking to collaborate on MERN Stack- based Web Development Projects / WordPress Development 
+- 👯 I’m looking to collaborate on MERN Stack-based Web Development Projects / WordPress Development 
 - 🤔 I’m looking for help with Ethical Hacking and CTF Learning
 - 💬 Ask me about anything ranging from anime to sports ( football/cricket/video games)
 - 📫 How to reach me: 
