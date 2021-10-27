@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Myself **Vinayak Singh** , a pre-final year student at IIIT Ranchis
+Myself **Vinayak Singh** , a pre-final year student at IIIT Ranchi
 
 <!--
 
