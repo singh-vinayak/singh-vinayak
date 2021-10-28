@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything ranging from anime to sports ( football/cricket/video games)
 
 
-### 📫 How to reach me:
+### 📫 Socials &amp; my coding platforms:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinayaksingh121)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6urMdfFM)
