@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-singh5302&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/vinayak-singh5302/netflix-clone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-vinayak&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/vinayak-singh5302/netflix-clone)
 
-![My Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayak-singh5302)
+![My Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh-vinayak)
 
 <!--
 ![Vinayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinayak_singh) -->
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayak-singh5302&show_icons=true&theme=synthwavecount_private=true)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-vinayak&show_icons=true&theme=synthwavecount_private=true)
