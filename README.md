@@ -47,9 +47,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-vinayak&layout=compact&hide=matlab,Jupyter%20Notebook)](https://github.com/vinayak-singh5302/netflix-clone)
 
-![My Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh-vinayak)
+<!--
+![My Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh-vinayak) -->
 
 <!--
 ![Vinayak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinayak_singh) -->
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-vinayak&show_icons=true&theme=synthwavecount_private=true)
+<!--
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=singh-vinayak&show_icons=true&theme=synthwavecount_private=true) -->
