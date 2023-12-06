@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a full time software developer at Broadridge India
-- 🌱 I’m currently working on Blockchain and utilising my skills to improve my skillset in this domain
+- 🌱 I’m currently working on Blockchain and improving my skillset in this domain
 - 👯 Apart from Blockchain, I'm actively learning Golang and GraphQL 
 - 🤔 If you're someone who's excited by the latest technological advancements, let's connect 
 - 💬 I'm a big anime and sports lover. Ask me about anything ranging from anime to sports ( football/cricket/video games)
