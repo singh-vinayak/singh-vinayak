@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Myself **Vinayak Singh** , a pre-final year student at IIIT Ranchi
+Myself **Vinayak Singh** , software developer and engineer from IIIT Ranchi
 
 <!--
 
@@ -10,19 +10,19 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Google Developer Student Club- IIIT Ranchi WebSite 
-- 🌱 I’m currently learning Advanced topics of React , Back End development and Computer Networking
-- 👯 I’m looking to collaborate on Full Stack-based Web Development Projects / WordPress Development 
-- 🤔 I’m looking for help with Ethical Hacking and CTF Learning
-- 💬 Ask me about anything ranging from anime to sports ( football/cricket/video games)
+- 🔭 I’m currently working as a full time software developer at Broadridge India
+- 🌱 I’m currently working on Blockchain and utilising my skills to improve my skillset in this domain
+- 👯 Apart from Blockchain, I'm actively learning Golang and GraphQL 
+- 🤔 If you're someone who's excited by the latest technological advancements, let's connect 
+- 💬 I'm a big anime and sports lover. Ask me about anything ranging from anime to sports ( football/cricket/video games)
 
 
 ### 📫 Socials &amp; my coding platforms:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vinayaksingh121)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6urMdfFM)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinayak.singh2441/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-singh-0038241a9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/singh._.vinayak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-vinayak/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vinayaksingh121)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/c0nnor/)
 
